@@ -1,0 +1,13 @@
+name: "Cloudways Pros and Cons"
+description: "Honest Cloudways review and analysis"
+author: "Angela-Collins"
+
+branding:
+  icon: "cloud"
+  color: "blue"
+
+runs:
+  using: "composite"
+  steps:
+    - run: echo "Cloudways review"
+      shell: bash
