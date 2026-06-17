@@ -2,11 +2,7 @@
 
 ![Cloudways Pros and Cons 2026](https://blog.cocoslack.com/wp-content/uploads/2026/06/cloudway-pro-and-cons-2026.jpeg)
 
-<p align="center">
-  <a href="https://www.cloudways.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Cloudways-blue?style=for-the-badge" />
-  </a>
-</p>
+
 
 > After using Cloudways daily for months, here’s my honest experience — what I genuinely love, what I don't, and whether it's actually worth the money in 2026.
 
